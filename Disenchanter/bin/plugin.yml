@@ -1,0 +1,7 @@
+api-version: '1.13'
+api: '1.19.2'
+name: Disenchanter
+version: '1.0'
+author: Summoi
+main: plugin.disenchanter.main.Disenchanter
+description: Allows you to take any enchantment off any item

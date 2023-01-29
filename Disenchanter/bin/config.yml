@@ -1,0 +1,14 @@
+#Settings
+#
+#
+# This is the message displayed whenever you disenchant
+disenchant_message: "&f&l(&d!&f&l) &7Successfully extracted enchantment &f&l(&d!&f&l)"
+#
+#
+# This is the money cost required for disenchanting using Vault API Hook
+# Set this value to 0 to disable it
+disenchant_cost_money: 0
+#
+#
+# This is the experience cost required for disenchanting using vanilla Minecraft experience Default: '1395' 30 Levels
+disenchant_cost_exp: 30
